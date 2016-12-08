@@ -1,0 +1,1 @@
+# anki-3d-engine-assets
